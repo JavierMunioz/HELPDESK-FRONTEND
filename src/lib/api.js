@@ -1,6 +1,6 @@
 // src/lib/api.js
 
-const API_BASE = 'http://161.97.112.69:3443';
+const API_BASE = 'https://161.97.112.69:8443/';
 
 function getCookie(name) {
   const value = `; ${document.cookie}`;

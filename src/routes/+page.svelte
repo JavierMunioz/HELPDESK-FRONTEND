@@ -23,7 +23,7 @@
 		success = false;
 
 		try {
-			const response = await fetch('http://localhost:8000/tickets/', {
+			const response = await fetch('http://161.97.112.69:3443/tickets/', {
 				method: 'POST',
 				headers: {
 					'Content-Type': 'application/json',

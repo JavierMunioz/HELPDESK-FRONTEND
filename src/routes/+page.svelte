@@ -68,6 +68,8 @@
 <main>
 	<div class="container">
 		<div class="header">
+		<img src="/logo.png" alt="" style="width: 220px;">
+
 			<h1>Crear Ticket</h1>
 			<p>Centro de Soporte Técnico</p>
 		</div>

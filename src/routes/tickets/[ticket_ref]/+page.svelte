@@ -96,6 +96,8 @@
 
 <main>
   <header>
+		<img src="/logo.png" alt="" style="width: 220px;">
+
     <h1>📨 Responder Ticket: {ticket_ref}</h1>
     <button on:click={goBack}>⬅️ Volver</button>
   </header>
